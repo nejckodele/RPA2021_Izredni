@@ -1,0 +1,1 @@
+Tukaj bodo vsa predavanja in vaje pri predmetu Razvoj programskih aplikacij
