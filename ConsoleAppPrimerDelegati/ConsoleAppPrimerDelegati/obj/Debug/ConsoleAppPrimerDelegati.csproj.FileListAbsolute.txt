@@ -1,0 +1,7 @@
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\bin\Debug\ConsoleAppPrimerDelegati.exe.config
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\bin\Debug\ConsoleAppPrimerDelegati.exe
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\bin\Debug\ConsoleAppPrimerDelegati.pdb
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\obj\Debug\ConsoleAppPrimerDelegati.csprojAssemblyReference.cache
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\obj\Debug\ConsoleAppPrimerDelegati.csproj.CoreCompileInputs.cache
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\obj\Debug\ConsoleAppPrimerDelegati.exe
+C:\RPA2021_Izredni\ConsoleAppPrimerDelegati\ConsoleAppPrimerDelegati\obj\Debug\ConsoleAppPrimerDelegati.pdb
